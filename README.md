@@ -22,4 +22,3 @@ ex) 3-Null`
 ### 두번쨰(`포지션 별로 Repository 관리`) 방법을 사용시
 `3-개발포지션-팀이름 
 ex) 3-Android-Null`
-   
