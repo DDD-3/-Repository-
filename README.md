@@ -1,4 +1,4 @@
-# Repository 사용 안내
+# Repository 사용 안내 :)
 
 ## Repository 관리 및 생성 방법
 저희 DDD는 기본적으로 해당 organization 안에서 프로젝트 관리를 진행하고 있습니다.<br>
